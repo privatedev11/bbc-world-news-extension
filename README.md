@@ -1,4 +1,4 @@
-# bbc-world-news-unofficial
+# bbc-world-news-extension
 BBC World News, straight into your address bar
 
 A simple browser extension that puts BBC World News straight into your address bar.
